@@ -349,33 +349,3 @@ body {
   #bottom .adv-nav a:hover {
     text-decoration: underline;
   }
-  
-  @media screen and (min-width: 1600px) and (max-width: 1980px) {
-    main {
-      height: 65vh;
-    }
-    #Ukraine {
-      height: 50px;
-    }
-    #Nav {
-      height: 50px;
-    }
-    #center {
-      height: 59vh;
-    }
-    #center #advancedd .right #f {
-      margin-top: 22px;
-    }
-    #center #advancedd .right #s {
-      margin-top: 25px;
-    }
-    #center #advancedd .right #t {
-      margin-top: 22px;
-    }
-    #center #advancedd .right #fr {
-      margin-top: 25px;
-    }
-    #bottom {
-      height: 50px;
-    }
-  }
