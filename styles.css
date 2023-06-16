@@ -22,7 +22,7 @@ body {
   }
   header .google_logo {
     position: static;
-    width: 75px;
+    width: 74px;
     height: 25px;
     background-image: url(googlelogo.png);
     background-size: contain;
@@ -65,7 +65,7 @@ body {
   }
   
   main {
-    height: 60vh;
+    height: 44vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -82,8 +82,8 @@ body {
     height: 92px;
     background-image: url(googlelogo.png);
     background-size: contain;
-    margin-left: 100px;
-    margin-bottom: 3vh;
+    margin-left: 150px;
+    margin-bottom: 2vh;
   }
   main .google #img {
     position: absolute;
@@ -97,10 +97,10 @@ body {
     width: auto;
   }
   main #search input {
-    width: 450px;
-    padding: 10px;
+    width: 520px;
+    padding: 13px;
     border: 1px solid rgba(0, 0, 0, 0.2);
-    border-radius: 20px;
+    border-radius: 25px;
     background-color: transparent;
     padding-left: 50px;
     position: relative;
@@ -120,7 +120,7 @@ body {
   main #search .icon {
     position: absolute;
     margin-left: 17px;
-    margin-top: 13px;
+    margin-top: 15px;
     z-index: 1;
     color: #4f5b66;
   }
@@ -219,10 +219,10 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
   }
   #center #advancedd #left {
-    margin-top: 25px;
+    margin-top: 41px;
     margin-left: 40px;
     width: 225px;
     min-width: 200px;
@@ -242,31 +242,29 @@ body {
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: flex-end;
-    width: 650px;
+    width: 600px;
     margin-top: 100px;
   }
   #center #advancedd .forms input {
-    width: 650px;
-    padding: 5px 8px;
+    width: 600px;
+    padding: 5px 20px;
     margin-bottom: 11px;
     font-family: "Roboto", sans-serif;
-    border: 1px #c0c0c0;
-    border-style: solid;
+    border: 1px solid #c0c0c0;
   }
   #center #advancedd .forms input:focus {
     outline: none;
     border-color: #4d90fe;
   }
   #center #advancedd .forms button {
-    padding: 7px 15px;
-    margin-left: 510px;
+    padding: 7px 20px;
+    margin-top: 15px;
+    margin-left: 500px;
     background-color: #4d90fe;
     color: #fff;
-    border: 1px #3079ed;
-    border-style: solid;
+    border: 1px solid #3079ed;
     border-radius: 3px;
     font-family: "Roboto", sans-serif;
-    font-weight: bold;
     font-size: small;
   }
   #center #advancedd .forms button:hover {
@@ -275,8 +273,8 @@ body {
   }
   #center #advancedd .right {
     width: auto;
-    margin-top: 25px;
-    margin-left: 10px;
+    margin-top: 20px;
+    margin-left: 15px;
     color: #777777;
   }
   #center #advancedd .right p {
@@ -288,16 +286,16 @@ body {
     font-size: medium;
   }
   #center #advancedd .right #f {
-    margin-top: 22px;
+    margin-top: 26px;
   }
   #center #advancedd .right #s {
     margin-top: 25px;
   }
   #center #advancedd .right #t {
-    margin-top: 10px;
+    margin-top: 24px;
   }
   #center #advancedd .right #fr {
-    margin-top: -7px;
+    margin-top: 23px;
   }
   
   .else {
