@@ -281,6 +281,7 @@ body {
     font-size: small;
   }
   #center #advancedd .forms button:hover {
+    cursor: pointer;
     background-color: #4185f3;
     border-color: #2f5bb7;
   }
