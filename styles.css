@@ -122,8 +122,22 @@ body {
     margin-left: 17px;
     margin-top: 15px;
     z-index: 1;
-    color: #4f5b66;
+    color: #4f5b666c;
   }
+
+  main #search .search-button {
+    position: relative;
+    right: 50px;
+    background: none;
+    border: none;
+    font-size: 17px;
+    color: #4285f4;
+  }
+  main #search .search-button:hover {
+    color: #4f5b66;
+    cursor: pointer;
+  }
+
   main .buttons {
     text-align: center;
     margin-top: 30px;
