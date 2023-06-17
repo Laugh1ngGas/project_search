@@ -133,8 +133,8 @@ body {
     color: #4285f4;
   }
   main #search .search-button:hover {
-    color: #4f5b66;
     cursor: pointer;
+    color: #4f5b66;
   }
 
   main .buttons {
